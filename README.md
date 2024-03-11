@@ -4,7 +4,7 @@ Courseinfo is an app which shows the use of the refactoring of components and us
 
 # Try out this app:
 
-You can experience the app by clicking [this link](https://unicafe.onrender.com).
+You can experience the app by clicking [this link](https://courseinfo-0atq.onrender.com).
 
 # Project Details:
 
